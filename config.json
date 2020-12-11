@@ -1,0 +1,215 @@
+{
+    "normalkeys": {
+        "binaryedge": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "www.binaryedge.io"
+        },
+        "builtwith": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "builtwith.com"
+        },
+        "virustotal": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "www.virustotal.com"
+        },
+        "securitytrails": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "www.securitytrails.com"
+        },
+        "passivetotal": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "passivetotal.org",
+            "username": ""
+        },
+        "urlscan": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "urlscan.io"
+        },
+        "shodan": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "shodan.io",
+            "maxPages": "3"
+        },
+        "dnsdumpster": {
+            "service": "dnsdumpster.com"
+        },
+        "dnsgrep": {
+            "service": "dnsgrep",
+            "services": [
+                "http://dns.bufferover.run/dns?q=",
+                "https://tls.bufferover.run/dns?q="
+            ]
+        },
+        "alienvault": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "otx.alienvault.com"
+        },
+        "waybackarchive": {
+            "service": "web.archive.org"
+        }
+    },
+    "premiumkeys": {
+        "binaryedge": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "www.binaryedge.io"
+        },
+        "builtwith": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "builtwith.com"
+        },
+        "passivetotal": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "passivetotal.org",
+            "username": ""
+        },
+        "virustotal": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "www.virustotal.com"
+        },
+        "securitytrails": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "www.securitytrails.com"
+        },
+        "urlscan": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "urlscan.io"
+        },
+        "shodan": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "shodan.io",
+            "maxPages": "3"
+        },
+        "alienvault": {
+            "apikeys": [{
+                    "lastused": "",
+                    "key": ""
+                },
+                {
+                    "lastused": "",
+                    "key": ""
+                }
+            ],
+            "service": "otx.alienvault.com"
+        }
+    }
+}

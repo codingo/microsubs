@@ -1,0 +1,6 @@
+{
+  "services": [
+    "http://dns.bufferover.run/dns?q=",
+    "https://tls.bufferover.run/dns?q="
+  ]
+}
